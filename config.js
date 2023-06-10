@@ -6,11 +6,11 @@
                                 ┃╰━╯┃╰━╯┃╰━━┫╰━━┫┃ ┃┃┃╰━━╯┃╭━╮┣┫┣╮
                                 ╰━━╮┣━━━┻━━━┻━━━┻╯ ╰━╯    ╰╯ ╰┻━━╯
                                    ╰╯
-## Project Name => Queen-AI
+## Project Name => Ali_King
 ## Project Version => 1.0.0  
-## Project Author => DarkWinzo
+## Project Author => ALI_KING
 ## Project license => MIT
-## Project Team => DarkSide Team
+## Project Team => DRAGON Team
 ## Module Name => config.js
 ## Coded By DarkWinzo
 ***/ 
@@ -24,11 +24,11 @@ global.session = process.env.SESSION_ID || "PUT HERE"; //enter your session id h
 
 global.openaikey = process.env.OPEN_AI_KEY || "ENTER_API-KEY_HERE"; //Put Your Open AI Api key
 
-global.ownername = process.env.OWNER_NAME || "DarkWinzo"; //Queen-AI Owner Name here
+global.ownername = process.env.OWNER_NAME || "ALI_KING_DRAGON_TEAM"; //Queen-AI Owner Name here
 
-global.ownernumber = process.env.OWNER_NUMBER || "94775200935"; //Owner whatsapp number here
+global.ownernumber = process.env.OWNER_NUMBER || "923252752761"; //Owner whatsapp number here
 
-global.language = process.env.LANGUAGE || "EN"; //Enter bot working language EN = English / SI = Sinhala /ML = Malayalam /HI =Hindi /UR = Urdu
+global.language = process.env.LANGUAGE || "UR"; //Enter bot working language EN = English / SI = Sinhala /ML = Malayalam /HI =Hindi /UR = Urdu
 
 global.prefix = ['.'] //Don't Change
 
